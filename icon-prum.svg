@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="průmyslové a výrobní haly.svg"
+   version="1.1"
+   viewBox="0 0 512 512"
+   enable-background="new 0 0 512 512"
+   id="Layer_1">
+  <metadata
+     id="metadata47">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs45" />
+  <sodipodi:namedview
+     inkscape:current-layer="Layer_1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="364.00968"
+     inkscape:cx="228.51765"
+     inkscape:zoom="1.328125"
+     showgrid="false"
+     id="namedview43"
+     inkscape:window-height="847"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     style="fill:#003067;fill-opacity:1"
+     id="g10">
+    <g
+       style="fill:#003067;fill-opacity:1"
+       id="g8">
+      <g
+         style="fill:#003067;fill-opacity:1"
+         id="g6">
+        <path
+           style="fill:#003067;fill-opacity:1"
+           id="path2"
+           d="m505.854 150.336c-3.691-1.749-8.149-1.173-11.349 1.451l-110.507 92.096v-83.883c0-4.139-2.389-7.915-6.144-9.664-3.712-1.749-8.149-1.173-11.349 1.451l-110.507 92.096v-83.883c0-4.224-2.496-8.064-6.379-9.771-3.84-1.749-8.384-.96-11.499 1.899l-66.859 61.291c-2.432 2.24-3.712 5.483-3.413 8.789l24.021 276.267 10.581-.363-10.667 3.221c0 5.888 4.779 10.667 10.667 10.667h298.88c5.888 0 10.667-4.779 10.667-10.667v-341.333c.001-4.139-2.388-7.915-6.143-9.664zm-185.856 244.331c0 5.888-4.779 10.667-10.667 10.667h-64c-5.888 0-10.667-4.779-10.667-10.667v-64c0-5.888 4.779-10.667 10.667-10.667h64c5.888 0 10.667 4.779 10.667 10.667zm128 0c0 5.888-4.779 10.667-10.667 10.667h-64c-5.888 0-10.667-4.779-10.667-10.667v-64c0-5.888 4.779-10.667 10.667-10.667h64c5.888 0 10.667 4.779 10.667 10.667z" />
+        <path
+           style="fill:#003067;fill-opacity:1"
+           id="path4"
+           d="m127.956 9.749c-.47-5.525-5.099-9.749-10.624-9.749h-64c-5.525 0-10.155 4.224-10.624 9.749l-42.667 490.667c-.256 2.987.747 5.931 2.752 8.128s4.885 3.456 7.872 3.456h149.333c.128 0 .277-.021.427 0 5.888 0 10.667-4.779 10.667-10.667 0-1.365-.256-2.667-.725-3.861z" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g12" />
+  <g
+     id="g14" />
+  <g
+     id="g16" />
+  <g
+     id="g18" />
+  <g
+     id="g20" />
+  <g
+     id="g22" />
+  <g
+     id="g24" />
+  <g
+     id="g26" />
+  <g
+     id="g28" />
+  <g
+     id="g30" />
+  <g
+     id="g32" />
+  <g
+     id="g34" />
+  <g
+     id="g36" />
+  <g
+     id="g38" />
+  <g
+     id="g40" />
+</svg>
